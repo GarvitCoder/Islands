@@ -1,0 +1,5 @@
+You need the ursina engine from pip.
+
+Install python and go to cmd
+
+Type 'pip install ursina' and done
